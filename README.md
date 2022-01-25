@@ -14,3 +14,4 @@ HTML, CSS, JAVASCRIPT, MONGOOSE/MONGODB, EXPRESS.jS and NODE packages
 
 ## The snapshot of the application
 
+<img width="1792" alt="Screen Shot 2022-01-25 at 2 03 31 PM" src="https://user-images.githubusercontent.com/65073138/151067320-d824dad6-2d92-44ad-be9d-90ce3728b8ea.png">
