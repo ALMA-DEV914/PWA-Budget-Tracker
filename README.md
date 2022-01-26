@@ -1,4 +1,4 @@
-# Progeessive-web-application-Budget-Tracker
+# Progressive-web-application-Budget-Tracker
 
 ## The deployed application
 [The Budget Tracker application on Heroku](https://aqueous-cove-81545.herokuapp.com)
