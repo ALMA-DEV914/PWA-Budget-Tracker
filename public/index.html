@@ -13,11 +13,12 @@
   <title>Budget Tracker</title>
 </head>
 <body>
+  <!--section for the total-->
   <div class="wrapper">
     <div class="total">
       <div class="total">Your total is: $<span id="total">0</span></div>
     </div>
-
+<!--input forms-->
     <div class="form">
       <input type="text" id="t-name" placeholder="Name of transaction" />
       <input type="number" min="0" id="t-amount" placeholder="Transaction amount" />
@@ -25,7 +26,7 @@
       <button id="sub-btn"><i class="fa fa-minus"></i> Subtract Funds</button>
       <p class="error"></p>
     </div>
-
+<!--section for the data entry of transaction and amount-->
     <div class="transactions">
       <table>
         <thead>
@@ -37,14 +38,15 @@
         </tbody>
       </table>
     </div>
-    
+    <!--section for the bar chart-->
     <canvas id="myChart"></canvas>
   </div>
-
+<!--call all the file path-->
   <script src="https://cdn.jsdelivr.net/npm/chart.js@2.8.0"></script>
   <script src="js/index.js"></script>
   <script src="js/idb.js"></script>
 </body>
+<!--fucntion to activate and registered the service worker for the appliaction-->
 <script>
   (function () {
     if ("serviceWorker" in navigator) {

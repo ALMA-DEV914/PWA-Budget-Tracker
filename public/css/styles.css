@@ -1,18 +1,19 @@
+/* style the body */
 body {
   font-size: 120%;
   font-family: Arial;
 
 }
-
+/* style the button and input */
 button, input {
   font-size: 100%;
   font-family: Arial;
 }
-
+/* set the table width */
 table {
   width: 100%;
 }
-
+/* style the table data and header */
 td, th {
   border: 1px solid #dddddd;
   text-align: left;
@@ -26,23 +27,23 @@ tr:nth-child(even) {
 .error {
   color: red;
 }
-
+/* style the whole wrapper */
 .wrapper {
   margin: 20px auto;
   max-width: 825px;
   text-align: center;
 }
-
+/* set total header style */
 .total {
   font-size: 150%;
   text-decoration: underline;
 }
-
+/* style the form */
 .form {
   margin-top: 25px;
   width: 100%;
 }
-
+/* style the class transaction */
 .transactions {
   text-align: left;
   max-height: 300px;
