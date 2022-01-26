@@ -21,5 +21,6 @@ You can clone the repository and run npm i to install all packages. Open in your
 <img width="1792" alt="Screen Shot 2022-01-25 at 2 03 31 PM" src="https://user-images.githubusercontent.com/65073138/151067320-d824dad6-2d92-44ad-be9d-90ce3728b8ea.png">
 
 This short video shows that your input was saved while you are offline.
+
 https://user-images.githubusercontent.com/65073138/151090388-8f2aada1-56b1-47bd-9ded-8c5ffabaa34d.mov
 
