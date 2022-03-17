@@ -16,7 +16,8 @@ HTML, CSS, JAVASCRIPT, MONGOOSE/MONGODB, EXPRESS.jS and NODE packages
 
 ## Usage
 
-You can clone the repository and run npm i to install all packages. Open in your mobile phone, it will allow you to key in your expenses or assets while you are offline and it will be saved and appear when you are online. It is also installable by clicking the install icon on the address bar.
+    You can clone the repository and run *npm i* to install all packages. 
+    Open in your mobile phone or browser, click the desktop with arrow down to install the app. It can be found on the address bar.    It will allow you to key in your expenses or assets while you are offline and it will be saved and appear when you are online.
 
 ## The snapshot of the application
 
